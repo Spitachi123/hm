@@ -1,0 +1,30 @@
+{
+  "hangmanWords": [
+    {
+      "word": "apple",
+      "hint": "A common fruit"
+    },
+    {
+      "word": "banana",
+      "hint": "Yellow fruit that monkeys love"
+    },
+    {
+      "word": "guitar",
+      "hint": "A stringed musical instrument"
+    }
+  ],
+  "scribbleWords": [
+    {
+      "word": "cat",
+      "hint": "A small domesticated animal"
+    },
+    {
+      "word": "house",
+      "hint": "Where people live"
+    },
+    {
+      "word": "sun",
+      "hint": "Bright star in the sky"
+    }
+  ]
+}
